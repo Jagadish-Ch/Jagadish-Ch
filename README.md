@@ -1,4 +1,4 @@
-![logo](https://t3.ftcdn.net/jpg/06/09/82/78/240_F_609827880_o0Ws7hftF3KO0c8puKjBoMwipru2hhqJ.jpg)
+![logo](https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966)
 <h1 align="center">Hi 👋, I'm Jagadish</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align='right' alt='Coding' width = '400' src = 'https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif'>
