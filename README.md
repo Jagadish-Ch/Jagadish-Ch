@@ -1,7 +1,7 @@
 ![logo](https://t3.ftcdn.net/jpg/06/09/82/78/240_F_609827880_o0Ws7hftF3KO0c8puKjBoMwipru2hhqJ.jpg)
 <h1 align="center">Hi 👋, I'm Jagadish</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
+<img align='right' alt='Coding' width = '400' src = 'https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadish-ch&label=Profile%20views&color=0e75b6&style=flat" alt="jagadish-ch" /> </p>
 
 - 🌱 I’m currently learning **Tailwind, React-Native**
