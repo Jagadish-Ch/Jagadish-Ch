@@ -67,11 +67,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jagadish-ch&layout=compact&theme=dark" />
-</p>
-
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadish-ch&theme=github-dark-blue" />
 </p>
 
