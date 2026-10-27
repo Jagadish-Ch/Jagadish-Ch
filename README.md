@@ -1,7 +1,7 @@
 <h1 align="center">Jagadish Ch 👋</h1>
 
 <p align="center">
-  <b>Software Engineer • MERN Stack Developer • AWS Cloud Enthusiast</b>
+  <b>Software Engineer • MERN & Full Stack Developer • AWS Cloud Enthusiast</b>
 </p>
 
 <p align="center">
@@ -16,9 +16,10 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Software Engineer from India 🇮🇳  
-- 💻 Strong in MERN Stack, Java & Python
-- 💼 Software Developer Intern @ Infosys
+- 👨‍💻 Software Engineer from India 🇮🇳
+- 💼 Software Engineer @ Infosys  
+- 💻 Strong in MERN & Full Stack, Java & Python
+- 💼 Ex-Software Developer Intern @ Infosys
 - ☁️ AWS Cloud Intern & Full Stack Developer  
 
 ---
@@ -40,12 +41,12 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,python" />
+  <img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind" />
 </p>
 
 ### ⚙️ Backend & Databases
@@ -55,7 +56,7 @@
 
 ### ☁️ Cloud & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,photoshop" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,eclipse,vscode,photoshop" />
 </p>
 
 ---
@@ -74,10 +75,10 @@
 
 ## 🎯 Current Focus
 
-- Building scalable MERN applications  
-- Improving DSA & problem-solving  
+- Building scalable MERN & Full Stack applications  
 - Exploring AWS cloud-native solutions  
-
+- Improving DSA & problem-solving  
+- Exploring new Technologies and Keep on updating my-self
 ---
 
 ## ✨ Quote
@@ -87,5 +88,5 @@
 ---
 
 <p align="center">
-  🚀 Open to internships, collaborations, and full-time roles
+  🚀 Open to freelancing, internships, collaborations, and full-time roles
 </p>
