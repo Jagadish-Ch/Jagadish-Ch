@@ -63,8 +63,12 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jagadish-ch&show_icons=true&theme=dark" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=jagadish-ch&show_icons=true&theme=dark"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
